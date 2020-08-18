@@ -1,0 +1,1 @@
+@echo hello from 2.bat
